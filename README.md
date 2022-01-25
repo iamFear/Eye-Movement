@@ -2,7 +2,7 @@
 
 - **Description:** This is a website where an eye is going to follow your mouse cursor all around the page, enjoy it! 😄
 
-- **How to run** You can see the project running and interact with him in the following link: []()
+- **How to run** You can see the project running and interact with him in the following link: [https://iamfear.github.io/Eye-Movement/](https://iamfear.github.io/Eye-Movement/)
 
 - **Future improvements:** In the following weeks, im going to add more eyes with diferents styles and colors to the website.
 
